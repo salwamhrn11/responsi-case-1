@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : Salwa Maharani  
+NIU : 481194
+Sesi : Senin 
+Secret String : e99192413619d001af4f3ff7ec7ded837048247e53960f32b8c9515c668c39aa20240603010623
 
 ## Checklist Responsi
 
